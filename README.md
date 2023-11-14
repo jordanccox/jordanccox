@@ -8,7 +8,7 @@ After high school, I joined the Colorado Army National Guard, where I served for
 
 #### 🔧 What I'm working on...
 
-I have built a number of projects in vanilla JavaScript, React, and React + Redux. I'm most interested in backend development and system design. Currently, I'm working on building REST APIs in TypeScript and learning Go. You can check out my pinned projects to see some of the things I've built that I'm most proud of.
+I have built a number of projects in vanilla JavaScript, React, and React + Redux. I'm most interested in backend development, unit testing, and system design. Currently, I'm working on building REST APIs in TypeScript and learning Go. You can check out my pinned projects to see some of the things I've built that I'm most proud of.
 
 <!--
 **jordanccox/jordanccox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
