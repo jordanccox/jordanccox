@@ -8,5 +8,5 @@ After high school, I joined the Colorado Army National Guard, where I served for
 
 #### 🔧 What I'm working on...
 
-I have built a number of projects in vanilla JavaScript, React, and React + Redux. I'm most interested in backend development, unit testing, and system design. Currently, I'm building a full stack construction management application with Express and React. On the side,  I'm learning Go. You can check out my pinned projects to see some of the things I've built that I'm most proud of.
+I have built a number of projects in vanilla JavaScript, React, and React + Redux. I'm most interested in backend development, unit testing, and system design. Currently, I'm building a full stack construction management application with Express and React. On the side,  I'm learning Go and working on websites as a freelancer. You can check out my pinned projects to see some of the things I've built that I'm most proud of.
 
